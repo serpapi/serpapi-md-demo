@@ -47,3 +47,16 @@ non-thinking mode with identical request settings for both payloads.
 SerpApi calls use the official `serpapi` client. The benchmark reads the
 underlying HTTP response's `.text` for both formats so the JSON response is not
 re-serialized before token measurement.
+
+## Practical use case
+
+The follow-on Google Shopping demo is documented in
+`use_cases/shopping/README.md`. It compares how many products fit in one fixed
+DeepSeek input budget, computes deterministic metrics in Python, and uses
+DeepSeek for paired semantic analyses and grounded recommendations. The program
+then reports which findings and marketing tests are supported only by the deeper
+rank evidence available in Markdown.
+
+## Run
+python3 benchmark.py  --run-dir benchmark-results/run-2026-09-01
+python3 use_cases/shopping/demo.py
