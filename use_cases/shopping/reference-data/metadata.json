@@ -1,0 +1,14 @@
+{
+  "created_at_utc": "2026-09-02T14:45:00.997971+00:00",
+  "query": "trail running shoes",
+  "location": "New York, New York, United States",
+  "source": "fixture",
+  "restrictor_fields": [
+    "shopping_results[].position",
+    "shopping_results[].title",
+    "shopping_results[].price",
+    "shopping_results[].rating",
+    "shopping_results[].reviews",
+    "shopping_results[].source"
+  ]
+}

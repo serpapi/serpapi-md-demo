@@ -1,0 +1,320 @@
+{
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Brooks Men's Ghost Trail",
+      "price": "$149.95",
+      "rating": 4.5,
+      "reviews": 329,
+      "source": "Road Runner Sports"
+    },
+    {
+      "position": 2,
+      "title": "New Balance Men's Shoes New Balance Trail Running Wide",
+      "price": "$65.98",
+      "rating": 4.4,
+      "reviews": 712,
+      "source": "Famous Footwear"
+    },
+    {
+      "position": 3,
+      "title": "Saucony Men's Excursion TR17",
+      "price": "$74.99",
+      "rating": 4.3,
+      "reviews": 98,
+      "source": "DSW"
+    },
+    {
+      "position": 4,
+      "title": "On Men's Cloudvista 2",
+      "price": "$150.00",
+      "rating": 4.5,
+      "reviews": 364,
+      "source": "L.L.Bean"
+    },
+    {
+      "position": 5,
+      "title": "Salomon Men's Aero Glide 4 GRVL",
+      "price": "$160.00",
+      "rating": 4.5,
+      "reviews": 463,
+      "source": "REI"
+    },
+    {
+      "position": 6,
+      "title": "New Balance Men's FuelCell Rebel Trail",
+      "price": "$149.99",
+      "rating": 4.1,
+      "reviews": 45,
+      "source": "New Balance"
+    },
+    {
+      "position": 7,
+      "title": "ASICS Men's Trail Scout 3",
+      "price": "$65.00",
+      "rating": 4.5,
+      "reviews": 976,
+      "source": "ASICS"
+    },
+    {
+      "position": 8,
+      "title": "New Balance Men's M410V9 Trail Running Shoes | Black/Grey | Size 9",
+      "price": "$69.99",
+      "rating": 4.3,
+      "reviews": 116,
+      "source": "Rack Room Shoes"
+    },
+    {
+      "position": 9,
+      "title": "Hoka Men's Speedgoat 7",
+      "price": "$165.00",
+      "rating": 4.3,
+      "reviews": 581,
+      "source": "REI"
+    },
+    {
+      "position": 10,
+      "title": "New Balance Women's 410 V9 Trail Running Shoes",
+      "price": "$69.99",
+      "rating": 4.7,
+      "reviews": 99,
+      "source": "DSW"
+    },
+    {
+      "position": 11,
+      "title": "Women's trail running shoes adidas Terrex Tracefinder 2",
+      "price": "$70.00",
+      "rating": 4.6,
+      "reviews": 442,
+      "source": "adidas.com"
+    },
+    {
+      "position": 12,
+      "title": "La Sportiva Women's Bushido III",
+      "price": "$119.99",
+      "rating": 4.5,
+      "reviews": 192,
+      "source": "REI"
+    },
+    {
+      "position": 13,
+      "title": "Merrell Men's Morphaxis Trail Running Shoe",
+      "price": "$49.97",
+      "rating": 4.4,
+      "reviews": 73,
+      "source": "Nordstrom Rack"
+    },
+    {
+      "position": 14,
+      "title": "New Balance 410 v9 Women's Trail Running Shoes",
+      "price": "$69.99",
+      "rating": 4.7,
+      "reviews": 9,
+      "source": "Rack Room Shoes"
+    },
+    {
+      "position": 15,
+      "title": "New Balance Men's 410 v9 Trail Running Shoes",
+      "price": "$69.99",
+      "rating": 4.3,
+      "reviews": 71,
+      "source": "DSW"
+    },
+    {
+      "position": 16,
+      "title": "On Women's Cloudvista 2",
+      "price": "$160.00",
+      "rating": 4.5,
+      "reviews": 207,
+      "source": "L.L.Bean"
+    },
+    {
+      "position": 17,
+      "title": "Hoka Women's Speedgoat 7",
+      "price": "$165.00",
+      "rating": 4.3,
+      "reviews": 328,
+      "source": "REI"
+    },
+    {
+      "position": 18,
+      "title": "ASICS Men's Gel-Venture 10 Running Shoes",
+      "price": "$75.98",
+      "rating": 4.6,
+      "reviews": 1400,
+      "source": "Famous Footwear"
+    },
+    {
+      "position": 19,
+      "title": "Men's Mount to Coast T1",
+      "price": "$180.00",
+      "rating": 4.6,
+      "reviews": 357,
+      "source": "Mount to Coast"
+    },
+    {
+      "position": 20,
+      "title": "New Balance FuelCell Rebel Trail Green / Grey WRBT6JX Women's",
+      "price": "$149.99",
+      "rating": 4.5,
+      "reviews": 22,
+      "source": "New Balance"
+    },
+    {
+      "position": 21,
+      "title": "Men's Under Armour Charged Bandit Trail 4 Running Shoes",
+      "price": "$100.00",
+      "source": "Under Armour"
+    },
+    {
+      "position": 22,
+      "title": "Topo Athletic Men's Topo Ultraventure 4",
+      "price": "$104.95",
+      "rating": 4.4,
+      "reviews": 741,
+      "source": "Grivet Outdoors"
+    },
+    {
+      "position": 23,
+      "title": "Brooks Men's Cascadia 20",
+      "price": "$160.00",
+      "rating": 4.6,
+      "reviews": 13,
+      "source": "REI"
+    },
+    {
+      "position": 24,
+      "title": "Altra Men's Experience Wild 3",
+      "price": "$150.00",
+      "rating": 4.7,
+      "reviews": 36,
+      "source": "Altra"
+    },
+    {
+      "position": 25,
+      "title": "Asics Men's Gel-Venture 11 Trail Running Shoes",
+      "price": "$79.98",
+      "rating": 4.1,
+      "reviews": 132,
+      "source": "Shoe Station"
+    },
+    {
+      "position": 26,
+      "title": "Men's Merrell Agility Trail Trail Running Shoes",
+      "price": "$84.97",
+      "rating": 4.7,
+      "reviews": 3,
+      "source": "Nordstrom Rack"
+    },
+    {
+      "position": 27,
+      "title": "PUMA Men's Flare Pro Trail Shoes",
+      "price": "$51.09",
+      "rating": 4.9,
+      "reviews": 18,
+      "source": "Academy Sports + Outdoors"
+    },
+    {
+      "position": 28,
+      "title": "Men's The North Face Offtrail TR Shoes",
+      "price": "$102.74",
+      "source": "SportsShoes.com"
+    },
+    {
+      "position": 29,
+      "title": "Reebok Men's ZigWild Trail 6 Shoes",
+      "price": "$69.99",
+      "rating": 4.6,
+      "reviews": 2200,
+      "source": "Reebok"
+    },
+    {
+      "position": 30,
+      "title": "INOV8 Mudtalon Speed Men's",
+      "price": "$49.99",
+      "rating": 4.4,
+      "reviews": 109,
+      "source": "Sierra"
+    },
+    {
+      "position": 31,
+      "title": "La Sportiva Men's Prodigio",
+      "price": "$81.83",
+      "rating": 4.4,
+      "reviews": 316,
+      "source": "REI"
+    },
+    {
+      "position": 32,
+      "title": "NNormal Kjerag",
+      "price": "$109.00",
+      "rating": 4.6,
+      "reviews": 277,
+      "source": "NNormal"
+    },
+    {
+      "position": 33,
+      "title": "Kailas FUGA EX 3 Men's Trail Running Shoes",
+      "price": "$179.00",
+      "rating": 4.8,
+      "reviews": 123,
+      "source": "Kailasgear"
+    },
+    {
+      "position": 34,
+      "title": "Adult Trail Running Shoes Under Armour EXPLOR",
+      "price": "$159.99",
+      "rating": 4.1,
+      "reviews": 30,
+      "source": "DICK'S Sporting Goods"
+    },
+    {
+      "position": 35,
+      "title": "Salomon S/Lab Ultra Dust Men's",
+      "price": "$280.00",
+      "rating": 4.5,
+      "reviews": 39,
+      "source": "Salomon.com"
+    },
+    {
+      "position": 36,
+      "title": "Hi-Tec HiTec Women's Catalina II Trail Shoe",
+      "price": "$19.98",
+      "rating": 4.3,
+      "reviews": 64,
+      "source": "Academy Sports + Outdoors"
+    },
+    {
+      "position": 37,
+      "title": "Topo Athletic Men's Traverse",
+      "price": "$150.00",
+      "rating": 4.2,
+      "reviews": 253,
+      "source": "Topo Athletic"
+    },
+    {
+      "position": 38,
+      "title": "ASICS Women's Gel-Venture 10 Running Shoes",
+      "price": "$59.98",
+      "rating": 4.3,
+      "reviews": 827,
+      "source": "Famous Footwear"
+    },
+    {
+      "position": 39,
+      "title": "Saucony Men's Peregrine 15",
+      "price": "$115.73",
+      "rating": 4.6,
+      "reviews": 325,
+      "source": "REI"
+    },
+    {
+      "position": 40,
+      "title": "Columbia Konos Trillium ATR Men's Shoes",
+      "price": "$140.00",
+      "rating": 4.6,
+      "reviews": 111,
+      "source": "Columbia Sportswear"
+    }
+  ]
+}

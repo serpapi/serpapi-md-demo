@@ -1,0 +1,21 @@
+Analyze one Google Shopping snapshot for ecommerce SEO/marketing. Python metrics are authoritative; use titles for semantics. Observations are hypotheses, not causes. Call the observed value "position," not "organic rank." Spearman magnitude <0.2 means no meaningful relationship; <0.4 means weak.
+
+Query: {query}
+Location: {location}
+Products: {sample_size}
+
+Metrics:
+{metrics}
+
+Data:
+{payload}
+
+Return JSON:
+- headline
+- findings (max 4): claim, marketing_implication, evidence_positions, caveat. Each compares top/lower groups and cites both.
+- title_patterns: top_group/lower_group arrays of pattern, evidence_positions, marketing_implication
+- intent_segments (max 4): segment, evidence_positions, marketing_implication
+- actions (max 4): action, evidence_positions, hypothesis, experiment, primary_kpi, guardrail_kpi, rationale
+- limitations: array of strings
+
+Cite 2–5 supplied positions per item; actions must cite a lower-group product. Specify controlled tests and separate feed/SEO from paid or merchandising work. No title rewrites or promised gains. Missing reviews mean unavailable evidence, not a broken feed. If lower query coverage >= top, do not add exact-query terms. If absolute price/review Spearman <0.4, do not prioritize price changes/review acquisition. Never incentivize reviews. Verify citations; omit weak ideas.
