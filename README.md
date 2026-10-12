@@ -13,10 +13,10 @@ python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 ```
 
-Store the demo credentials outside the project in:
+Create a local `.env` file in the project root:
 
 ```text
-/Users/magentaqin/serpapi/serpapi-keys/.env
+serpapi-md-demo/.env
 ```
 
 with this content:
@@ -26,16 +26,18 @@ SERPAPI_API_KEY=...
 DEEPSEEK_API_KEY=...
 ```
 
-Restrict the file permissions, then run:
+You can start from the committed example, restrict the local file permissions,
+then run:
 
 ```bash
-chmod 600 /Users/magentaqin/serpapi/serpapi-keys/.env
+cp .env.example .env
+chmod 600 .env
 .venv/bin/python benchmark.py
 ```
 
 Explicit `SERPAPI_API_KEY` and `DEEPSEEK_API_KEY` environment variables take
-precedence when present. Otherwise the script automatically loads the fixed
-file above.
+precedence when present. Otherwise the scripts automatically load `.env` from
+the project root. The real `.env` is ignored by Git and must never be committed.
 
 Raw paired responses, DeepSeek usage records, CSV data, JSON data, and a Markdown
 summary are written under `benchmark-results/latest/`. The run is resumable.
@@ -58,5 +60,5 @@ then reports which findings and marketing tests are supported only by the deeper
 rank evidence available in Markdown.
 
 ## Run
-python3 benchmark.py  --run-dir benchmark-results/run-2026-09-01
+python3 benchmark.py
 python3 use_cases/shopping/demo.py

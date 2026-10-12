@@ -11,7 +11,7 @@ from pathlib import Path
 
 DEEPSEEK_URL = "https://api.deepseek.com/chat/completions"
 DEEPSEEK_MODEL = "deepseek-v4-flash"
-SECRETS_FILE = Path("/Users/magentaqin/serpapi/serpapi-keys/.env")
+SECRETS_FILE = Path(__file__).resolve().parents[1] / ".env"
 
 
 def load_secrets_file(path=SECRETS_FILE):
